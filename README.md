@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Chockalingam Kasi, currently an undergraduate student at Nanyang Technological University.🔭 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chockaaa&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Chockaaa/Chockaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
